@@ -1,0 +1,8 @@
+# Local AMap credentials
+config.js
+
+# Local development files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
